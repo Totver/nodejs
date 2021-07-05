@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "puppeteer": "^10.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
